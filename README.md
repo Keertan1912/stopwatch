@@ -10,6 +10,4 @@ Features
 
 •	Responsive Design: The layout is centered on the page, and the elements are designed to be visually appealing and functional across different screen sizes.
 
-•	Dynamic Button States: Buttons change color when hovered over, providing a dynamic and interactive user experience.
-
 •	Lap List: Displays recorded lap times in a scrollable container with custom styling.
