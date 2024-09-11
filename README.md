@@ -1,3 +1,5 @@
+# Stopwatch-Application
+
 Stopwatch Application
 
 This project is a simple stopwatch application built with HTML, CSS, and JavaScript. The CSS provided defines the styles for the application's user interface.
